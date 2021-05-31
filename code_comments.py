@@ -1,0 +1,2 @@
+#INITIAL CODE
+print(3+5)
