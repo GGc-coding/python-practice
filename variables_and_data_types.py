@@ -43,6 +43,3 @@ print('\'')
 
 # Double quote (")
 print("\"")
-
-
-
